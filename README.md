@@ -1,5 +1,9 @@
 # Sup my friend
 
+[![Build Status](https://travis-ci.org/fathurhidayat3/fh-npm-test.svg?branch=master)](https://travis-ci.org/fathurhidayat3/fh-npm-test)
+![GitHub](https://img.shields.io/github/license/fathurhidayat3/fh-npm-test.svg)
+![npm](https://img.shields.io/npm/v/fh-npm-test.svg)
+
 You don't need to install this package anyway :P
 
 ## Installation
